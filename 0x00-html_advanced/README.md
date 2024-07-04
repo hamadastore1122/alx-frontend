@@ -9,6 +9,9 @@ For this project, we expect you to look at this concept:
 HTML - elements of a web page
 
 
+![image](https://github.com/hamadastore1122/alx-frontend/assets/142863486/63ed5c02-cfbe-425a-addb-4cdde90faab5)
+
+
 
 
 
