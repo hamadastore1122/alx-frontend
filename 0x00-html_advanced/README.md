@@ -52,5 +52,10 @@ Your code should be W3C compliant and validate with W3C-Validator
 Techium will be the name of the company we will use across our webpages.
 Sitemap of the project
 
+https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/4/4dec2ba9d84a0a55355b1c1e2de4c57854a2d35a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240704%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240704T152554Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=30b33797aecc08b258f474964c843caa7ebdd0cf5130d41a301df0883afc70a0
+
 
 Wireframe of Techium project
+
+
+https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/4/3e4f9e2b3cb73d1768229e086f5da35337be5c6c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240704%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240704T152554Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=bb3a7c4e30db9cb7ce5d70a9b254cfb6fbd145db06249a51e7f8f4f287a00aa1
