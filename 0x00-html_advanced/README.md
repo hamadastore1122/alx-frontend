@@ -8,7 +8,7 @@ For this project, we expect you to look at this concept:
 
 HTML - elements of a web page
 
-![image](https://github.com/hamadastore1122/alx-frontend/assets/142863486/60d850a4-2444-4bd0-b5cf-349b0a6bb77d)
+
 
 
 
@@ -46,7 +46,6 @@ How to correctly structure an HTML page
 Requirements
 
 
-![image](https://github.com/hamadastore1122/alx-frontend/assets/142863486/580ec8d6-74e5-4a21-9f71-cb96dd217d42)
 
 A README.md file at the root of the folder of the project is mandatory
 Your code should be W3C compliant and validate with W3C-Validator
