@@ -8,6 +8,9 @@ For this project, we expect you to look at this concept:
 
 HTML - elements of a web page
 
+![image](https://github.com/hamadastore1122/alx-frontend/assets/142863486/60d850a4-2444-4bd0-b5cf-349b0a6bb77d)
+
+
 
 Welcome!
 Welcome to the Web Stack specialization. The 3 first projects will give you all basics of the Web development: HTML, CSS and Developer tools.
@@ -41,6 +44,10 @@ How to integrate an audio file in a webpage
 How to embed external content
 How to correctly structure an HTML page
 Requirements
+
+
+![image](https://github.com/hamadastore1122/alx-frontend/assets/142863486/580ec8d6-74e5-4a21-9f71-cb96dd217d42)
+
 A README.md file at the root of the folder of the project is mandatory
 Your code should be W3C compliant and validate with W3C-Validator
 Techium will be the name of the company we will use across our webpages.
