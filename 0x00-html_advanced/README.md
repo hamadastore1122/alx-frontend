@@ -52,10 +52,14 @@ Your code should be W3C compliant and validate with W3C-Validator
 Techium will be the name of the company we will use across our webpages.
 Sitemap of the project
 
-![image](https://github.com/hamadastore1122/alx-frontend.git/assets/142863486/e8390a67-0cb6-4645-bdc3-db8042e5a470)
+![image](https://github.com/hamadastore1122/alx-frontend/assets/142863486/a345bf24-5700-4e06-8834-b82c78eb96a5)
+
 
 Wireframe of Techium project
 
 
-![image](https://github.com/hamadastore1122/alx-frontend.git/assets/142863486/cb9f05f6-ce39-4aee-a880-e71d52ce087e)
+![image](https://github.com/hamadastore1122/alx-frontend/assets/142863486/b83a7aa9-92e6-4c4e-a9b3-3415071f6bda)
+
+
+
 
