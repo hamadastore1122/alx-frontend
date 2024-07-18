@@ -17,14 +17,14 @@
 
 
 
-* Resources
-* Read or watch:
+## Resources
+# Read or watch:
 
-## The building blocks of responsive design - Progressive web apps | MDN[https://intranet.alxswe.com/rltoken/o3EMSmw1WrNDSLJe3QcPIw]
-## A pragmatic guide to designing and building responsive web applications | developerlife.com[https://intranet.alxswe.com/rltoken/kYMxBNgzzyb2s7ZkVa5HJA]
-## Understanding the difference between mobile-first, adaptive and responsive design[https://intranet.alxswe.com/rltoken/kYMxBNgzzyb2s7ZkVa5HJA]
-## LukeW | Mobile First[https://intranet.alxswe.com/rltoken/6CYunSvuxKo0aMHTXAMO3w]
-## Responsive Design Newsletter[https://intranet.alxswe.com/rltoken/6SOmvi6vROzFLgKqSG-ODA]
+* The building blocks of responsive design - Progressive web apps | MDN[https://intranet.alxswe.com/rltoken/o3EMSmw1WrNDSLJe3QcPIw]
+* A pragmatic guide to designing and building responsive web applications | developerlife.com[https://intranet.alxswe.com/rltoken/kYMxBNgzzyb2s7ZkVa5HJA]
+* Understanding the difference between mobile-first, adaptive and responsive design[https://intranet.alxswe.com/rltoken/kYMxBNgzzyb2s7ZkVa5HJA]
+* LukeW | Mobile First[https://intranet.alxswe.com/rltoken/6CYunSvuxKo0aMHTXAMO3w]
+* Responsive Design Newsletter[https://intranet.alxswe.com/rltoken/6SOmvi6vROzFLgKqSG-ODA]
 
 
 #  Learning Objectives
