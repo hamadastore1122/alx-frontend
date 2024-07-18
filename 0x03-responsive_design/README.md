@@ -8,7 +8,7 @@
 * Concepts
 * For this project, we expect you to look at this concept:
 
-* [Responsive web design]
+* [https://intranet.alxswe.com/concepts/546]
 
 
 
@@ -20,7 +20,7 @@
 * Resources
 * Read or watch:
 
-### The building blocks of responsive design - Progressive web apps | MDN
+### [https://intranet.alxswe.com/rltoken/o3EMSmw1WrNDSLJe3QcPIw]
 ### A pragmatic guide to designing and building responsive web applications | developerlife.com
 ### Understanding the difference between mobile-first, adaptive and responsive design
 ### LukeW | Mobile First
